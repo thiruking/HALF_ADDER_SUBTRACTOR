@@ -81,7 +81,8 @@ Developed by: RegisterNumber:*/24900491
 **Output/TIMING Waveform**
 ![Screenshot 2024-12-03 201349](https://github.com/user-attachments/assets/bd3bffbb-9acd-4c36-ac75-bc913fca618b)
 
-![Screenshot 2024-12-03 201349](https://github.com/user-attachments/assets/2b23ca04-809d-4879-9386-941a57c5c9b7)
+![Screenshot 2024-12-03 202001](https://github.com/user-attachments/assets/c921e6c7-cf3b-48db-85f9-c97b50ed478c)
+
 
 
 

@@ -75,7 +75,9 @@ endmodule
 Developed by: RegisterNumber:*/24900491
 
 **RTL Schematic**
-![Screenshot 2024-11-05 170801](https://github.com/user-attachments/assets/c356f379-9b1e-4fc5-b435-78c24a5a4726)
+![Screenshot 2024-12-03 201214](https://github.com/user-attachments/assets/f40e2a4e-a6c8-4bd5-8ec6-4c5f9dfa8c43)
+
+![Screenshot 2024-12-03 202025](https://github.com/user-attachments/assets/aec2a8f7-a4a3-4e77-8392-db1220f583b4)
 
 
 **Output/TIMING Waveform**
